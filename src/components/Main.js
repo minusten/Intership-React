@@ -1,4 +1,5 @@
 import React, {Component} from 'react'
+import Todo from './Todo'
 
 
 class Main extends Component {
@@ -7,6 +8,7 @@ class Main extends Component {
      return(
         <div> 
             jewljlajwrnglk
+            <Todo />
         </div>
      )
  }
